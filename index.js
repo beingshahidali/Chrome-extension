@@ -33,7 +33,7 @@ async function fetchBotReply(outline) {
     message: I'll need to think about that. But your idea is amazing! I love the bit about Hawaii!
     ###
     outline:A plane crashes in the jungle and the passengers have to walk 1000km to safety.
-    message: I'll spend a few moments considering that. But I love your idea!! A disaster movie in the jungle!
+    message: I'll spend a few moments considering that. But I love your idea!!
     ###
     outline: A group of corrupt lawyers try to send an innocent woman to jail.
     message: Wow that is awesome! Corrupt lawyers, huh? Give me a few moments to think!
