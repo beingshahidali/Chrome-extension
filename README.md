@@ -1,4 +1,4 @@
-# MyLeads Chrome Extension 🚀
+# MyLeads(Link Magnet) Chrome Extension 🚀
 
 MyLeads is a simple Chrome extension that allows users to save and manage their browsing leads. You can easily add the current tab's URL to your list of leads, view them, and delete them as needed.
 
