@@ -9,7 +9,6 @@ MyLeads is a simple Chrome extension that allows users to save and manage their 
 - [Usage](#usage)
 - [Delete Leads](#delete-leads)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -33,19 +32,19 @@ cd myleads-chrome-extension
     Enable "Developer mode" in the top right corner.
 
     Click "Load unpacked" and select the folder where you cloned this repository.
-
-Usage
+```
+##Usage
 
     Click the extension icon in the Chrome toolbar.
     Use the "Add Lead" button to save the current tab's URL.
     View your leads by clicking on the extension icon.
     Open a lead by clicking on its link.
 
-Delete Leads
+##Delete Leads
 
     Delete All Leads: Double click the "Delete All" button in the extension popup.
     Delete One Lead: Click the "Delete" button next to the lead you want to remove.
 
-Contributing
+##Contributing
 
 If you would like to contribute to this project, please follow the contribution guidelines.
