@@ -12,6 +12,7 @@ input {
     border: 1px solid #5f9341;
     margin-bottom: 4px;
     border:2px solid red;
+    color:red;
 }
 
 button {
